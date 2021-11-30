@@ -25,5 +25,5 @@ Principal Component Analysis - PCA was used
 
 ### Tools and Libraries
  - Image Processing : OpenCV
- - Machine Learning: SkLearn
+ - Machine Learning: Scikit-Learn
  - Visualization: Seaborn
