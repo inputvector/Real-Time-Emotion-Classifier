@@ -264,10 +264,3 @@ while cv2.getWindowProperty('Facial_Emotion', 0) >= 0:
     
 cam.release()
 cv2.destroyAllWindows()
-
-
-# In[ ]:
-
-
-
-
