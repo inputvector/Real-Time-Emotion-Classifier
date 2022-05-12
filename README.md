@@ -1,4 +1,4 @@
-# A Simple Real Time Facial Expression Classifier
+# Real Time Facial Expression Classifier
 
 ### Purpose
 Recognizing three basic (neutral, happy and sad ) facial expressions by using SVM classifier.
